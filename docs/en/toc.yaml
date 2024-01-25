@@ -1,5 +1,15 @@
 title: Documentation Project Template
 href: index.yaml
+navigation:
+  logo:
+    dark:
+      icon: "https://jing.isaev-group.ru/jing/113e0915-cb75-468a-aabb-e97198305e01.svg"
+      text: "Logo Dark"
+    icon: "https://jing.isaev-group.ru/jing/113e0915-cb75-468a-aabb-e97198305e01.svg"
+    light:
+      text: "Logo Light"
+    text: "Logo"
+    urlTitle: "Title"
 items: 
   - name: About
     href: about.md
